@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-
+// Github setup test comment
 public class Agenda{
 	// 3 Arraylists met artist, stage en performance objecten.
 	ArrayList<Artist> artists = new ArrayList<>();
